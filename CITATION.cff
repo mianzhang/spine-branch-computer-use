@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Spine-Branch Coordination for Multi-agent Computer Use"
+authors:
+  - family-names: Zhang
+    given-names: Mian
+  - family-names: Sharma
+    given-names: Manasi
+  - family-names: Zhang
+    given-names: Sheng
+  - family-names: Yang
+    given-names: Minlai
+  - family-names: Shi
+    given-names: Kejian
+  - family-names: Liu
+    given-names: Ying
+  - family-names: Chen
+    given-names: Zhiyu Zoey
+  - family-names: Zhang
+    given-names: Daniel Yue
+year: 2026
+repository-code: "https://github.com/mianzhang/spine-branch-computer-use"
+license: Apache-2.0
